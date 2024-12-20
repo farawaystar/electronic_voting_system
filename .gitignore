@@ -1,0 +1,16 @@
+# Rust build artifacts
+/target/
+**/*.rs.bk
+Cargo.lock
+
+# Solana deployables and compiled binaries
+*.so
+*.dylib
+*.dll
+*.exe
+/dist/
+/build/
+
+# Other common files to ignore
+.DS_Store
+thumbs.db
