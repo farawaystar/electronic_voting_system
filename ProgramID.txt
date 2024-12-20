@@ -1,0 +1,29 @@
+Program Id: 44mbnZciSj2joW6Cf94DX1ZQnffLwLxNMFp95MYNbF29
+
+Signature: 3Xxcu6HHMbWfPb3dKx12R1WPrvpHiae7oBHiqucabdNrZMu8HemM7VfaNSVhTjzykQ9W3qab1iXuHA2MPmrFs6mB
+
+Passphrase: electronic voting system
+Wrote new keypair to payer_keypair.json
+=============================================================================
+pubkey: EQ19F7WEPWs4GVUa2JgzZRPRAbqZ5PQYPRQBnXKPBX7N
+=============================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+anxiety aware cannon luggage jazz then federal nature neutral club lock raise
+=============================================================================
+
+Passphrase: electronic voting system
+Wrote new keypair to voter_keypair.json
+======================================================================
+pubkey: E2t1gNBHsR4ma7PJA3NNE8gjeiRWKRNEp7EsCv1GNZqN
+======================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+scout ring dose bulb slush coast cigar load icon advance carbon manage
+
+Passphrase: electronic voting system
+Wrote new keypair to vote_state_keypair.json
+==========================================================================
+pubkey: JC6qVisED7iiaNy9PBSR9AFPjVg3sSVMs44nKENHACUR
+==========================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+box quantum decade fire order game churn hello bench public laptop abandon
+==========================================================================
